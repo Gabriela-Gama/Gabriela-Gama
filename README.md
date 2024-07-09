@@ -1,5 +1,8 @@
 ## Bem-vindo(a) ao Meu Perfil 😁
 
+<img align="right" alt="Coding" width="400" src="![banner](https://github.com/Gabriela-Gama/Gabriela-Gama/assets/168321597/24381598-5b97-4aad-a499-7f25b7b9b736)
+">
+
 <div style="text-align: center; font-family: 'Arial', sans-serif; background-color: #f0f8ff; padding: 20px; border-radius: 15px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);">
    <p style="color: #708090;">Programadora Júnior | Puro Hobby,Diversão e Inovação</p>
    
